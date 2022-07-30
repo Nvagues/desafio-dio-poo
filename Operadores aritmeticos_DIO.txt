@@ -1,0 +1,17 @@
+pos fixado exp++ ou exp --
+prefixado ++exp ou --exp primeiro realiza a operação 
+Aritmetico +,-,*,/ e %
+atribuição com = 
+		  	+= 
+		  	-=
+		  	*=
+		 	/=
+		 	%=
+
+
+prefixado int j = k--; = j=k;k=k-1
+
+pos fixado int i ++k; = i=k+1;
+
+
+
